@@ -1,0 +1,2 @@
+#Install Pip
+pip install mpu6050-raspberrypi
